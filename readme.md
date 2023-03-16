@@ -1,11 +1,11 @@
 
 # Text Editor
 
-Text editor that converts text into bold, italic, underline, and other formatting options. user can simply select the text and apply the appropriate formatting option from the menu.
+Dashboard developed using Reactjs
 
 ## Live Demo
 
-https://fast-text-editor.netlify.app/
+https://ui-dashboard-reactjs.netlify.app/
 
 ## Screenshots
 
@@ -16,13 +16,13 @@ https://fast-text-editor.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/abhaypsamrat/Text-Editor.git
+  git clone https://github.com/abhaypsamrat/React-Dashboard.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Text-Editor
+  cd React-Dashboard
 ```
 
 Install dependencies
