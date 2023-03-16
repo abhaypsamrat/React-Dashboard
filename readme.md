@@ -1,5 +1,5 @@
 
-# Text Editor
+# React Dashboard
 
 Dashboard developed using Reactjs
 
