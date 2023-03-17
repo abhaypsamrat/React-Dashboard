@@ -23,7 +23,7 @@ function List() {
     <div>
       <h1>List</h1>
       {data.map((item, index) => (
-        <div key={index}>
+        <div>
           <h2>{item.title}</h2>
           <p>{item.description}</p>
         </div>

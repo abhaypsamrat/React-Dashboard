@@ -22,7 +22,7 @@ function Dashboard() {
       </div>
       <div className="dashboard-charts">
         <h2>Sales Chart</h2>
-        {/* Insert chart component here */}
+       
         <Charts />
       </div>
     </div>
