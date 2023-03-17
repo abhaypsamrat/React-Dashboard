@@ -10,7 +10,7 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: #f8f8f8;
   margin-left: 250px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 /* Table styles */
@@ -29,6 +29,10 @@ td {
 
 th {
   background-color: #eee;
+}
+
+.navbar {
+margin-bottom: 50px;
 }
 
 @media screen and (max-width: 768px) {

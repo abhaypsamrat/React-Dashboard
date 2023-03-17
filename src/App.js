@@ -6,10 +6,12 @@ import Charts from "./components/Charts";
 import Table from "./components/Table";
 import List from "./components/List";
 import Settings from "./components/Settings";
+import Header from "./components/Header";
 
 function App() {
   return (
     <BrowserRouter>
+    <Header />
       <Sidebar />
       <Routes>
         <Route path="/" element={<Dashboard />} />

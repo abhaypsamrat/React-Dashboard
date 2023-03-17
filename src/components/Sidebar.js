@@ -7,7 +7,7 @@ function Sidebar() {
       <ul>
         <li>
           <NavLink to="/" ClassName="active" end>
-            Dashboard
+            Home
           </NavLink>
         </li>
         <li>
